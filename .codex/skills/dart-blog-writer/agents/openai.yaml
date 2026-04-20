@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dart Blog Writer"
+  short_description: "Dart 학습 예제를 한글 기술블로그 글로 정리"
+  default_prompt: "이 스킬을 사용해서 Dart 학습 예제를 한글 기술블로그 스타일의 Notion 페이지로 정리해줘."
