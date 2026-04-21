@@ -1,5 +1,5 @@
 {
-  "last_turn_at": "2026-04-21T02:54:44.593Z",
-  "turn_count": 24,
-  "last_agent_output": "Notion의 `9. Dart언어` 아래에 `ex02` 내용을 기존 문체에 맞춰 4개 페이지로 추가했습니다.\n\n생성한 페이지:\n\n- [12. Button 클래스와 callback]"
+  "last_turn_at": "2026-04-21T05:58:47.520Z",
+  "turn_count": 25,
+  "last_agent_output": "확인했고 Notion에 이어서 작성했습니다.\n\n`ex02`에서 새로 확인한 내용:\n- `ex02/test00.dart`: 기존 기본 `Button + callback + mixin"
 }
